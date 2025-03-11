@@ -1,7 +1,6 @@
-Repository created to track my learning and progress as I code along with Vishwas' amazing CodeVolution Youtube tutorial series. Each subfolder is a project directory for each lesson section in the series. 
+Repository created to track my learning and progress as I code along with Vishwas' amazing CodeVolution Youtube tutorial series. Each subfolder is a project directory for each lesson section in the series. I'm having a blast learning about Nextjs! Can't wait to see what I build after the course!
 
 Visit this Youtube playlist to follow along and learn Nextjs 15 - [Nextjs 15 Tutorial](https://www.youtube.com/watch?v=b4ba60j_4o8&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY)
-
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
